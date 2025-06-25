@@ -376,7 +376,7 @@ def(abc);
 
 
 // 🔵 🔵 forEach Loop in Array (Only Use for  Array not for String) Higher Order Function Becouse it can take or return other function;
-
+// (Problem ache dekha lagbe aro valo kore array mathood o problem ache);
 
 let ar = [1, 2, 3, 4, 5, 6];
 
